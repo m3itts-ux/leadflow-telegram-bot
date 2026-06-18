@@ -12,7 +12,7 @@ ASSETS_DIR = BASE_DIR / "assets"
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "-5491624728"))
 
-CHANNEL_URL = "https://t.me/leadflowbis"
+CHANNEL_URL = "https://t.me/+pkYVR5Vylw1kMmMy"
 ROSTISLAV_URL = "https://t.me/rostwork48"
 DANIIL_URL = "https://t.me/danyawork48"
 
